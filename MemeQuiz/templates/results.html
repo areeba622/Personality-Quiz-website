@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="results-container">
+        <header>
+            <h1>Your Quiz Results</h1>
+        </header>
+        <main>
+            <h2>Your Personality Type: <span style="color: blue;">{{ personality }}</span></h2>
+            <!-- Display personality image -->
+            <img src="{{ url_for('static', filename='images/' + image) }}" alt="Personality Image">
+            <div class="image-caption">This image represents your vibe! 🌟</div>
+            <ul>
+                {% for result in answers %}
+                    <li>
+                        <strong>{{ result.question }}</strong>: {{ result.answer }}
+                    </li>
+                {% endfor %}
+            </ul>
+            <a href="{{ url_for('index') }}" class="restart-button">Restart Quiz</a>
+        </main>
+    </div>
+</body>
+</html>
+
+
