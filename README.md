@@ -55,17 +55,17 @@ MemeQuiz/
 ## 🎭 Personality Results Preview
 
 ### 😎 Chill Vibes  
-[![Chill Meme](https://github.com/areeba622/Personality-Quiz-website/blob/main/MemeQuiz/static/images/chill_image.jpg?raw=true)](https://github.com/areeba622/Personality-Quiz-website/blob/main/MemeQuiz/static/images/chill_image.jpg?raw=true)
+- [😎 Chill Meme](https://github.com/areeba622/Personality-Quiz-website/blob/main/MemeQuiz/static/images/chill_image.jpg?raw=true)
 
   
 *Relaxed and easy-going personality*
 
 ### 😒 Disappointed Energy  
-![Disappointed Personality](https://github.com/areeba622/Personality-Quiz-website/raw/main/static/images/disappointed_image.jpg)  
+- [😞 Disappointed Meme](https://github.com/areeba622/Personality-Quiz-website/blob/main/MemeQuiz/static/images/disappointed_image.jpg?raw=true)
 *Critical and perfectionist tendencies*
 
 ### 😭 Drama Mode  
-![Dramatic Personality](https://github.com/areeba622/Personality-Quiz-website/raw/main/static/images/drama_image.jpg)  
+- [🎭 Drama Meme](https://github.com/areeba622/Personality-Quiz-website/blob/main/MemeQuiz/static/images/drama_image.jpg?raw=true)
 *Emotional and expressive nature*
 
 ---
@@ -111,10 +111,10 @@ pip install -r requirements.txt
 
 ### 4. **Screenshots Section**
 - results.html page
-<img width="400" height="750" alt="Image" src="https://github.com/user-attachments/assets/36df0f6e-ae01-4e9b-9e0f-721ec22e1b7d" />
+<img width="400" height="550" alt="Image" src="https://github.com/user-attachments/assets/36df0f6e-ae01-4e9b-9e0f-721ec22e1b7d" />
 
 - question.html
-<img width="700" height="650" alt="Image" src="https://github.com/user-attachments/assets/22cea028-a8ce-4d74-afa5-b76c039e47a6" />
+<img width="400" height="650" alt="Image" src="https://github.com/user-attachments/assets/22cea028-a8ce-4d74-afa5-b76c039e47a6" />
   
 ---
 
