@@ -3,7 +3,7 @@
 A light-hearted, meme-inspired personality quiz web app that entertains users and sorts them into funny personality types — **Chill**, **Drama**, or **Disappointed** — based on their answers to relatable student life scenarios.
 
 ---
-
+<img width="400" height="750" alt="Image" src="https://github.com/user-attachments/assets/36df0f6e-ae01-4e9b-9e0f-721ec22e1b7d" />
 ## Description
 
 This web application presents a series of multiple-choice questions inspired by everyday university life. Based on the user's responses, the app determines a personality type and displays a corresponding meme image.
