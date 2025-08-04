@@ -55,7 +55,8 @@ MemeQuiz/
 ## 🎭 Personality Results Preview
 
 ### 😎 Chill Vibes  
-[![Chill Meme](static/images/chill_image.jpg)](static/images/chill_image.jpg)
+[![Chill Meme](https://github.com/areeba622/Personality-Quiz-website/blob/main/MemeQuiz/static/images/chill_image.jpg?raw=true)](https://github.com/areeba622/Personality-Quiz-website/blob/main/MemeQuiz/static/images/chill_image.jpg?raw=true)
+
   
 *Relaxed and easy-going personality*
 
