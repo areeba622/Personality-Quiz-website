@@ -3,7 +3,7 @@
 A light-hearted, meme-inspired personality quiz web app that entertains users and sorts them into funny personality types — **Chill**, **Drama**, or **Disappointed** — based on their answers to relatable student life scenarios.
 
 ---
-<img width="400" height="750" alt="Image" src="https://github.com/user-attachments/assets/36df0f6e-ae01-4e9b-9e0f-721ec22e1b7d" />
+
 ## Description
 
 This web application presents a series of multiple-choice questions inspired by everyday university life. Based on the user's responses, the app determines a personality type and displays a corresponding meme image.
@@ -32,19 +32,22 @@ This web application presents a series of multiple-choice questions inspired by 
 
 ## 📁 Project Structure
 
+```text
 MemeQuiz/
 ├── static/
-│ ├── images/
-│ │ ├── chill_image.jpg
-│ │ ├── disappointed_image.jpg
-│ │ └── drama_image.jpg
-│ └── styles.css
+│   ├── images/
+│   │   ├── chill_image.jpg
+│   │   ├── disappointed_image.jpg
+│   │   └── drama_image.jpg
+│   └── styles.css
 ├── templates/
-│ ├── question.html
-│ └── results.html
+│   ├── question.html
+│   └── results.html
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
+
 
 
 ---
@@ -52,7 +55,8 @@ MemeQuiz/
 ## 🎭 Personality Results Preview
 
 ### 😎 Chill Vibes  
-![Chill Personality](https://github.com/areeba622/Personality-Quiz-website/raw/main/static/images/chill_image.jpg)  
+[![Chill Meme](static/images/chill_image.jpg)](static/images/chill_image.jpg)
+  
 *Relaxed and easy-going personality*
 
 ### 😒 Disappointed Energy  
@@ -105,8 +109,12 @@ pip install -r requirements.txt
 ---
 
 ### 4. **Screenshots Section**
+- results.html page
+<img width="400" height="750" alt="Image" src="https://github.com/user-attachments/assets/36df0f6e-ae01-4e9b-9e0f-721ec22e1b7d" />
 
-
+- question.html
+<img width="700" height="650" alt="Image" src="https://github.com/user-attachments/assets/22cea028-a8ce-4d74-afa5-b76c039e47a6" />
+  
 ---
 
 ### 5. **License Section**
