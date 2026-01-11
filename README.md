@@ -1,4 +1,4 @@
-# 🎭 Meme-Based Personality Quiz App 😂
+#  Meme-Based Personality Quiz App 
 
 A light-hearted, meme-inspired personality quiz web app that entertains users and sorts them into funny personality types — **Chill**, **Drama**, or **Disappointed** — based on their answers to relatable student life scenarios.
 
@@ -118,10 +118,6 @@ pip install -r requirements.txt
   
 ---
 
-### 5. **License Section**
 
--This project is licensed under the MIT License.
-
----
 
 
